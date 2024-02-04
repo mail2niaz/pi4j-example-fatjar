@@ -52,7 +52,7 @@
   <properties>
     <maven-jar-plugin.version>3.1.0</maven-jar-plugin.version>
     <maven.compiler.target>${java.version}</maven.compiler.target>
-    <main.class>com.pi4j.example.Test</main.class>
+    <main.class>com.pi4j.example.Khubaib</main.class>
     <slf4j.version>1.7.32</slf4j.version>
     <java.version>11</java.version>
     <maven.compiler.source>${java.version}</maven.compiler.source>

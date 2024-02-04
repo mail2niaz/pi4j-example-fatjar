@@ -14,7 +14,7 @@
     <properties>
         <!-- PROJECT ENCODING PROPERTIES -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <main.class>com.pi4j.example.Musab</main.class>
+        <main.class>com.pi4j.example.Khubaib</main.class>
 
         <!-- JAVA COMPILER VERSIONS -->
         <java.version>11</java.version>
